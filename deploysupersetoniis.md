@@ -1,6 +1,7 @@
 **How to deploy Apache Superset on Windows Server (IIS) **
 
 **Pre-Requisites**
+
 Install Microsoft Visual C++ 14.x standalone: Build Tools for Visual Studio 2019 (x86, x64, ARM, ARM64)
 
 Select latest version of MSVCv142 - VS 2019 C++ x64/x86 build tools
@@ -16,6 +17,7 @@ Add Python 3.7 to PATH
 Use CMDto execute below commands (Recommended)
 
 **Installation**
+
 Ideally run these commands sequentially ...
 
 :: Create directory to host the files
